@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532438677120",
+    "firebase_url": "https://anifriend-24651.firebaseio.com",
+    "project_id": "anifriend-24651",
+    "storage_bucket": "anifriend-24651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532438677120:android:fe0ac5a4a08630c2",
+        "android_client_info": {
+          "package_name": "dan.anichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532438677120-7hjdq0b044c2e909db3l8n36omf1pvvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dan.anichat",
+            "certificate_hash": "064AF7723AD213662664788778FBE09D83E7F851"
+          }
+        },
+        {
+          "client_id": "532438677120-a79laujq5po1ikv9oje87sadq7i20hma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwzmrpFspMwF5iw7nmG9WPXxkR3ofi1MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532438677120-a79laujq5po1ikv9oje87sadq7i20hma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
