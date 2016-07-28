@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string msgid="6361267646005304214" name="accept">"Hyväksy"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tarvitsee yhtä tai useampaa Google Play Palvelua, jotka eivät ole tällä hetkellä käytettävissä. Ota yhteyttä kehittäjään."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Ota Google Play -palv. käyttöön"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ei toimi, ellet ota Google Play Palveluita käyttöön."</string>
@@ -50,5 +51,10 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Avaa puhelimessa"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Kirjaudu sisään"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Kirjaudu Google-tilille"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Myönnetäänkö mainokselle oikeus luoda kalenteritapahtuma?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Luo kalenteritapahtuma"</string>
+    <string msgid="6520798050439307862" name="decline">"Hylkää"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Myönnetäänkö mainokselle oikeus tallentaa kuva galleriaan?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Tallenna kuva"</string>
 </resources>

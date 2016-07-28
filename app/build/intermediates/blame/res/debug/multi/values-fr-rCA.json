@@ -368,8 +368,27 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2131,
+                    "endColumn": 73,
+                    "endOffset": 2200
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 73,
+                        "endOffset": 353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2205,
                     "endColumn": 295,
-                    "endOffset": 2422
+                    "endOffset": 2496
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2427,
+                    "startOffset": 2501,
                     "endColumn": 132,
-                    "endOffset": 2555
+                    "endOffset": 2629
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -403,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2560,
+                    "startOffset": 2634,
                     "endColumn": 211,
-                    "endOffset": 2767
+                    "endOffset": 2841
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -422,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2772,
+                    "startOffset": 2846,
                     "endColumn": 131,
-                    "endOffset": 2899
+                    "endOffset": 2973
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -441,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2904,
+                    "startOffset": 2978,
                     "endColumn": 135,
-                    "endOffset": 3035
+                    "endOffset": 3109
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -460,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3040,
+                    "startOffset": 3114,
                     "endColumn": 236,
-                    "endOffset": 3272
+                    "endOffset": 3346
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -479,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3277,
+                    "startOffset": 3351,
                     "endColumn": 236,
-                    "endOffset": 3509
+                    "endOffset": 3583
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -498,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3514,
+                    "startOffset": 3588,
                     "endColumn": 134,
-                    "endOffset": 3644
+                    "endOffset": 3718
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -517,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3649,
+                    "startOffset": 3723,
                     "endColumn": 194,
-                    "endOffset": 3839
+                    "endOffset": 3913
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -536,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3844,
+                    "startOffset": 3918,
                     "endColumn": 121,
-                    "endOffset": 3961
+                    "endOffset": 4035
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -555,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3966,
+                    "startOffset": 4040,
                     "endColumn": 192,
-                    "endOffset": 4154
+                    "endOffset": 4228
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -574,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4159,
+                    "startOffset": 4233,
                     "endColumn": 119,
-                    "endOffset": 4274
+                    "endOffset": 4348
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -593,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4279,
+                    "startOffset": 4353,
                     "endColumn": 141,
-                    "endOffset": 4416
+                    "endOffset": 4490
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -612,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4421,
+                    "startOffset": 4495,
                     "endColumn": 201,
-                    "endOffset": 4618
+                    "endOffset": 4692
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -631,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4623,
+                    "startOffset": 4697,
                     "endColumn": 155,
-                    "endOffset": 4774
+                    "endOffset": 4848
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -650,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4779,
+                    "startOffset": 4853,
                     "endColumn": 180,
-                    "endOffset": 4955
+                    "endOffset": 5029
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -669,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4960,
+                    "startOffset": 5034,
                     "endColumn": 124,
-                    "endOffset": 5080
+                    "endOffset": 5154
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -688,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 5085,
+                    "startOffset": 5159,
                     "endColumn": 187,
-                    "endOffset": 5268
+                    "endOffset": 5342
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -707,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5273,
+                    "startOffset": 5347,
                     "endColumn": 126,
-                    "endOffset": 5395
+                    "endOffset": 5469
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -726,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5400,
+                    "startOffset": 5474,
                     "endColumn": 290,
-                    "endOffset": 5686
+                    "endOffset": 5760
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -745,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5691,
+                    "startOffset": 5765,
                     "endColumn": 282,
-                    "endOffset": 5969
+                    "endOffset": 6043
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -764,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5974,
+                    "startOffset": 6048,
                     "endColumn": 123,
-                    "endOffset": 6093
+                    "endOffset": 6167
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -783,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 6098,
+                    "startOffset": 6172,
                     "endColumn": 113,
-                    "endOffset": 6207
+                    "endOffset": 6281
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -802,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 6212,
+                    "startOffset": 6286,
                     "endColumn": 215,
-                    "endOffset": 6423
+                    "endOffset": 6497
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -821,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6428,
+                    "startOffset": 6502,
                     "endColumn": 137,
-                    "endOffset": 6561
+                    "endOffset": 6635
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -840,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6566,
+                    "startOffset": 6640,
                     "endColumn": 218,
-                    "endOffset": 6780
+                    "endOffset": 6854
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -859,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6785,
+                    "startOffset": 6859,
                     "endColumn": 137,
-                    "endOffset": 6918
+                    "endOffset": 6992
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -878,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 6923,
+                    "startOffset": 6997,
                     "endColumn": 208,
-                    "endOffset": 7127
+                    "endOffset": 7201
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -897,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 7132,
+                    "startOffset": 7206,
                     "endColumn": 102,
-                    "endOffset": 7230
+                    "endOffset": 7304
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -916,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 7235,
+                    "startOffset": 7309,
                     "endColumn": 93,
-                    "endOffset": 7324
+                    "endOffset": 7398
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -935,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 7329,
+                    "startOffset": 7403,
                     "endColumn": 112,
-                    "endOffset": 7437
+                    "endOffset": 7511
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-fr-rCA\\values.xml",
@@ -954,11 +973,68 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 7442,
+                    "startOffset": 7516,
+                    "endColumn": 139,
+                    "endOffset": 7651
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 139,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7656,
+                    "endColumn": 113,
+                    "endOffset": 7765
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 113,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7770,
+                    "endColumn": 73,
+                    "endOffset": 7839
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 73,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7844,
                     "endColumn": 100,
-                    "endOffset": 7538
+                    "endOffset": 7940
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -968,6 +1044,44 @@
                         "startOffset": 2081,
                         "endColumn": 100,
                         "endOffset": 2177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7945,
+                    "endColumn": 145,
+                    "endOffset": 8086
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 145,
+                        "endOffset": 827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 8091,
+                    "endColumn": 98,
+                    "endOffset": 8185
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-fr-rCA\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 832,
+                        "endColumn": 98,
+                        "endOffset": 926
                     }
                 }
             }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"ទទួល"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> តម្រូវឲ្យមានសេវាកម្ម Google Play មួយ ឬច្រើន ប៉ុន្តែវាមិនមានផ្តល់ជូនទេបច្ចុប្បន្ននេះ។ សូមទាក់ទងអ្នកអភិវឌ្ឍន៍ដើម្បីទទួលជំនួយ។"</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"បើក​សេវាកម្ម​កម្សាន្ត Google"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។"</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"បើកតាមទូរស័ព្ទ"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ចូល"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"ចូលដោយប្រើ Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"អនុញ្ញាតឲ្យពាណិជ្ជកម្មបង្កើតព្រឹត្តិការណ៍ក្នុងប្រតិទិនឬ?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"បង្កើតព្រឹត្តិការណ៍ក្នុងប្រតិទិន"</string>
+    <string msgid="6520798050439307862" name="decline">"បដិសេធ"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"អនុញ្ញាតឲ្យពាណិជ្ជកម្មផ្ទុករូបភាពនៅក្នុងវិចិត្រសាលរូបភាពឬ?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"រក្សាទុករូបភាព"</string>
 </resources>

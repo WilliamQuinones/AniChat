@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"Samþykkja"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> krefst einhverrar Google Play þjónustu sem ekki er tiltæk sem stendur. Hafðu samband við þróunaraðilann til að fá aðstoð."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Virkja þjónustu Google Play"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> virkar ekki nema þú gerir þjónustu Google Play virka."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Opna í símanum"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Skrá inn"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Skrá inn með Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Leyfa auglýsingu að búa til dagatalsviðburð?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Búa til dagatalsviðburð"</string>
+    <string msgid="6520798050439307862" name="decline">"Hafna"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Leyfa auglýsingu að vista mynd í myndasafninu?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Vista mynd"</string>
 </resources>

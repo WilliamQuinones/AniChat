@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"അംഗീകരിക്കുക"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> എന്നതിന് നിലവിൽ ലഭ്യമല്ലാത്ത ഒന്നോ അതിൽ കൂടുതലോ Google Play സേവനങ്ങൾ ആവശ്യമാണ്. സഹായത്തിന് ഡെവലപ്പറെ ബന്ധപ്പെടുക."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ഫോണിൽ തുറക്കുക"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"സൈൻ ഇൻ ചെയ്യുക"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"ഒരു കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"കലണ്ടർ ഇവന്റ് സൃഷ്ടിക്കുക"</string>
+    <string msgid="6520798050439307862" name="decline">"നിരസിക്കുക"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"ചിത്ര ഗാലറിയിൽ ചിത്രം സംഭരിക്കാൻ പരസ്യത്തെ അനുവദിക്കണോ?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"ചിത്രം സംരക്ഷിക്കുക"</string>
 </resources>

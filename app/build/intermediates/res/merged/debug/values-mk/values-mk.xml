@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"Прифати"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> бара една или повеќе услуги на Google Play што не се достапни во моментов. Контактирајте со програмерот за помош."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Овозможи ги услугите на Google Play"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нема да се извршува ако не овозможите услуги на Google Play."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Отвори на телефонот"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Најави се"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Најави се со Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Дозволете рекламата да создаде настан во календарот?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Создајте настан во календарот"</string>
+    <string msgid="6520798050439307862" name="decline">"Одбиј"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Дозволете рекламата да ја зачува сликата во галеријата со слики?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Зачувајте ја сликата"</string>
 </resources>

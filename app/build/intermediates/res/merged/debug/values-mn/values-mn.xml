@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"Зөвшөөрөх"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь одоогоор ажиллах боломжгүй нэг болон түүнээс дээш Google Play үйлчилгээг шаардаж байна. Тусламж хэрэгтэй бол хөгжүүлэгчтэй холбоо барина уу."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play үйлчилгээг идэвхжүүлэх"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> нь Google Play үйлчилгээг идэвхжүүлэх хүртэл ажиллахгүй."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Утсаар нээх"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Нэвтрэх"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google-р нэвтрэх:"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Зарыг хуанлийн үйл явдал үүсгэхийг зөвшөөрөх үү?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Хуанлийн үйл явдал үүсгэх"</string>
+    <string msgid="6520798050439307862" name="decline">"Татгалзах"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Зарыг Зургийн цомогт зураг хадгалахыг зөвшөөрөх үү?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Зураг хадгалах"</string>
 </resources>

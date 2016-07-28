@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"ຍອມຮັບ"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຕ້ອງ​ການ​ໃຫ້​ມີ​ໜຶ່ງ​ ຫຼື​ ຫຼາຍ​ບໍ​ລິ​ການ​ຂອງ Google Play ທີ່​ບໍ່​ມີ​ໃຫ້​ຢູ່​ໃນ​ປະ​ຈຸ​ບັນ. ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​ຜູ້​ພັດ​ທະ​ນາ ເພື່ອ​ການ​ຊ່ວຍ​ເຫຼືອ​ເພີ່ມ​ເຕີມ."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"ເປີດໃຊ້ບໍລິການ Google Play"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ຈະບໍ່ສາມາດໃຊ້ງານໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ງານ​ການ​ບໍ​ລິ​ການ Google Play."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ລົງຊື່ເຂົ້າໃຊ້"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"ລົງຊື່ເຂົ້າໃຊ້ດ້ວຍ Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"ອະນຸຍາດໃຫ້ໂຄສະນາສ້າງນັດໝາຍປະຕິທິນໄດ້ບໍ?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"ສ້າງນັດໝາຍອື່ນ"</string>
+    <string msgid="6520798050439307862" name="decline">"ປະຕິເສດ"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"ອະນຸຍາດໃຫ້ໂຄສະນາບັນທຶກຮູບພາບໃສ່ຫ້ອງສະໝຸດພາບໄດ້ບໍ່?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"ບັນທຶກຮູບພາບ"</string>
 </resources>

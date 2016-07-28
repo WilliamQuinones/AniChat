@@ -20,7 +20,8 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".AnimePicker" />
         <activity android:name=".NewAnimeList" />
-        <activity android:name=".TopAnimeList"></activity>
+        <activity android:name=".TopAnimeList" />
+        <activity android:name=".ChatWindow"></activity>
     </application>
 
 </manifest>

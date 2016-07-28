@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"स्वीकार करा"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ला सध्‍या उपलब्‍ध नसलेल्‍या एक किंवा अधिक Google Play सेवांची आवश्‍यकता आहे. कृपया सहाय्यासाठी विकासकाशी संपर्क साधा."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play सेवा सक्षम करा"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"आपण Google Play सेवा सक्षम केल्याशिवाय <ns1:g id="APP_NAME">%1$s</ns1:g> हा अॅप कार्य करणार नाही."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"फोनवर उघडा"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"साइन इन करा"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google सह साइन इन करा"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"जाहिरातीस कॅलेंडर इव्हेंट तयार करण्याची परवानगी द्यायची?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"कॅलेंडर इव्हेंट तयार करा"</string>
+    <string msgid="6520798050439307862" name="decline">"नकार द्या"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"चित्र गॅलरीत प्रतिमा संग्रहित करण्याची जाहिरातीस अनुमती द्यायची?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"प्रतिमा जतन करा"</string>
 </resources>

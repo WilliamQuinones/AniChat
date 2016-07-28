@@ -368,8 +368,27 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2039,
+                    "endColumn": 73,
+                    "endOffset": 2108
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 73,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2113,
                     "endColumn": 270,
-                    "endOffset": 2305
+                    "endOffset": 2379
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -384,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2310,
+                    "startOffset": 2384,
                     "endColumn": 136,
-                    "endOffset": 2442
+                    "endOffset": 2516
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -403,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2447,
+                    "startOffset": 2521,
                     "endColumn": 186,
-                    "endOffset": 2629
+                    "endOffset": 2703
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -422,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2634,
+                    "startOffset": 2708,
                     "endColumn": 137,
-                    "endOffset": 2767
+                    "endOffset": 2841
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -441,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2772,
+                    "startOffset": 2846,
                     "endColumn": 131,
-                    "endOffset": 2899
+                    "endOffset": 2973
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -460,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2904,
+                    "startOffset": 2978,
                     "endColumn": 213,
-                    "endOffset": 3113
+                    "endOffset": 3187
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -479,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3118,
+                    "startOffset": 3192,
                     "endColumn": 213,
-                    "endOffset": 3327
+                    "endOffset": 3401
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -498,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3332,
+                    "startOffset": 3406,
                     "endColumn": 131,
-                    "endOffset": 3459
+                    "endOffset": 3533
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -517,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3464,
+                    "startOffset": 3538,
                     "endColumn": 178,
-                    "endOffset": 3638
+                    "endOffset": 3712
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -536,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3643,
+                    "startOffset": 3717,
                     "endColumn": 122,
-                    "endOffset": 3761
+                    "endOffset": 3835
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -555,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3766,
+                    "startOffset": 3840,
                     "endColumn": 175,
-                    "endOffset": 3937
+                    "endOffset": 4011
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -574,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3942,
+                    "startOffset": 4016,
                     "endColumn": 115,
-                    "endOffset": 4053
+                    "endOffset": 4127
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -593,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4058,
+                    "startOffset": 4132,
                     "endColumn": 134,
-                    "endOffset": 4188
+                    "endOffset": 4262
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -612,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4193,
+                    "startOffset": 4267,
                     "endColumn": 198,
-                    "endOffset": 4387
+                    "endOffset": 4461
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -631,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4392,
+                    "startOffset": 4466,
                     "endColumn": 157,
-                    "endOffset": 4545
+                    "endOffset": 4619
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -650,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4550,
+                    "startOffset": 4624,
                     "endColumn": 164,
-                    "endOffset": 4710
+                    "endOffset": 4784
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -669,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4715,
+                    "startOffset": 4789,
                     "endColumn": 125,
-                    "endOffset": 4836
+                    "endOffset": 4910
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -688,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4841,
+                    "startOffset": 4915,
                     "endColumn": 185,
-                    "endOffset": 5022
+                    "endOffset": 5096
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -707,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 5027,
+                    "startOffset": 5101,
                     "endColumn": 123,
-                    "endOffset": 5146
+                    "endOffset": 5220
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -726,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 5151,
+                    "startOffset": 5225,
                     "endColumn": 251,
-                    "endOffset": 5398
+                    "endOffset": 5472
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.2.1\\res\\values-tr\\values.xml",
@@ -745,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 5403,
+                    "startOffset": 5477,
                     "endColumn": 254,
-                    "endOffset": 5653
+                    "endOffset": 5727
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -764,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5658,
+                    "startOffset": 5732,
                     "endColumn": 125,
-                    "endOffset": 5779
+                    "endOffset": 5853
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -783,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 43,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5784,
+                    "startOffset": 5858,
                     "endColumn": 108,
-                    "endOffset": 5888
+                    "endOffset": 5962
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -802,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 5893,
+                    "startOffset": 5967,
                     "endColumn": 187,
-                    "endOffset": 6076
+                    "endOffset": 6150
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -821,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 6081,
+                    "startOffset": 6155,
                     "endColumn": 135,
-                    "endOffset": 6212
+                    "endOffset": 6286
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -840,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 6217,
+                    "startOffset": 6291,
                     "endColumn": 203,
-                    "endOffset": 6416
+                    "endOffset": 6490
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -859,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 6421,
+                    "startOffset": 6495,
                     "endColumn": 137,
-                    "endOffset": 6554
+                    "endOffset": 6628
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -878,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 6559,
+                    "startOffset": 6633,
                     "endColumn": 196,
-                    "endOffset": 6751
+                    "endOffset": 6825
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -897,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 6756,
+                    "startOffset": 6830,
                     "endColumn": 91,
-                    "endOffset": 6843
+                    "endOffset": 6917
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -916,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 6848,
+                    "startOffset": 6922,
                     "endColumn": 93,
-                    "endOffset": 6937
+                    "endOffset": 7011
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -935,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 6942,
+                    "startOffset": 7016,
                     "endColumn": 108,
-                    "endOffset": 7046
+                    "endOffset": 7120
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\values-tr\\values.xml",
@@ -954,11 +973,68 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 7051,
+                    "startOffset": 7125,
+                    "endColumn": 144,
+                    "endOffset": 7265
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 144,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7270,
+                    "endColumn": 106,
+                    "endOffset": 7372
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 106,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7377,
+                    "endColumn": 72,
+                    "endOffset": 7445
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 72,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7450,
                     "endColumn": 100,
-                    "endOffset": 7147
+                    "endOffset": 7546
                 },
                 "from": {
                     "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\values-tr\\values-tr.xml",
@@ -968,6 +1044,44 @@
                         "startOffset": 1989,
                         "endColumn": 100,
                         "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7551,
+                    "endColumn": 143,
+                    "endOffset": 7690
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 143,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7695,
+                    "endColumn": 92,
+                    "endOffset": 7783
+                },
+                "from": {
+                    "file": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-ads-lite\\9.2.1\\res\\values-tr\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 92,
+                        "endOffset": 911
                     }
                 }
             }

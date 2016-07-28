@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="16"
+        android:minSdkVersion="22"
         android:targetSdkVersion="24" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -37,6 +37,7 @@
         <activity android:name="dan.anichat.AnimePicker" />
         <activity android:name="dan.anichat.NewAnimeList" />
         <activity android:name="dan.anichat.TopAnimeList" />
+        <activity android:name="dan.anichat.ChatWindow" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
@@ -95,6 +96,31 @@
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
+            android:process=":background_crash" />
+        <service
+            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
+            android:process=":background_crash" />
+ <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
     </application>
 
 </manifest>

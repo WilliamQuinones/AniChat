@@ -40,6 +40,10 @@
         "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -50,6 +54,10 @@
     {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.2.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -118,6 +126,10 @@
     {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_circle_black_36dp.png",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\drawable\\ic_account_circle_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",

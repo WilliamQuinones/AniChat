@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string msgid="6361267646005304214" name="accept">"Αποδοχή"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> απαιτεί μία ή περισσότερες υπηρεσίες του Google Play που δεν είναι διαθέσιμες προς το παρόν. Επικοινωνήστε με τον προγραμματιστή για βοήθεια."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Ενεργοπ. υπηρεσιών Google Play"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
@@ -50,5 +51,10 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Άνοιγμα σε τηλέφωνο"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Σύνδεση"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Συνδεθείτε με το Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Να επιτραπεί στη διαφήμιση να δημιουργήσει ένα συμβάν στο ημερολόγιο;"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Δημιουργία συμβάντος στο ημερολόγιο"</string>
+    <string msgid="6520798050439307862" name="decline">"Απόρριψη"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στο gallery φωτογραφιών;"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Αποθήκευση εικόνας"</string>
 </resources>

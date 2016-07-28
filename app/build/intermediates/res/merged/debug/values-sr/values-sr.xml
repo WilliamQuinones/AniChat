@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Дели са"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Дели са апликацијом %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Скупи"</string>
+    <string msgid="6361267646005304214" name="accept">"Прихвати"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> захтева једну Google Play услугу која тренутно није доступна или више њих. Контактирајте програмера да бисте добили помоћ."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Омогући Google Play услуге"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> неће функционисати ако не омогућите Google Play услуге."</string>
@@ -50,5 +51,10 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Отвори на телефону"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Пријави ме"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Пријави ме на Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Желите ли да дозволите AdMob-у да направи догађај у календару?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Прављење догађаја у календару"</string>
+    <string msgid="6520798050439307862" name="decline">"Одбиј"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Желите ли да дозволите AdMob-у да сачува слику у Галерији слика?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Чување слике"</string>
 </resources>

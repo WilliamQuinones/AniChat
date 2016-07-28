@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"قبول کریں"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"‏<ns1:g id="APP_NAME">%1$s</ns1:g> کو ایک یا زیادہ Google Play سروسز درکار ہیں جو فی الحال دستیاب نہیں ہیں۔ براہ کرم معاونت کیلئے ڈیولپر سے رابطہ کریں۔"</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"‏Google Play سروسز فعال کریں"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، <ns1:g id="APP_NAME">%1$s</ns1:g> کام نہیں کرے گی۔"</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"فون پر کھولیں"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"سائن ان کریں"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"‏Google کے ساتھ سائن ان کریں"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"اشتہار کو کیلنڈر ایونٹ بنانے دیں؟"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"کیلنڈر ایونٹ بنائیں"</string>
+    <string msgid="6520798050439307862" name="decline">"مسترد کریں"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"اشتہار کو تصویری گیلری میں تصویر جمع کرانے کی اجازت دیں؟"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"تصویر محفوظ کریں"</string>
 </resources>

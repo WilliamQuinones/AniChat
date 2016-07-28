@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"Prano"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kërkon një ose më shumë shërbime të \"Luaj me Google\" që aktualisht janë të papërdorshme. Kontakto me zhvilluesin për ndihmë."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Aktivizo shërbimet e \"Luaj me Google\""</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\"."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Hape në telefon"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Identifikohu"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Identifikohu me Google"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"Lejo që reklama të krijojë një ngjarje në kalendar?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"Krijo një ngjarje në kalendar"</string>
+    <string msgid="6520798050439307862" name="decline">"Refuzo"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"Lejo që reklama të ruajë imazhin në \"Galerinë e fotografive\"?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"Ruaje imazhin"</string>
 </resources>

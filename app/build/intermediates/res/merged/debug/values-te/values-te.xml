@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="6361267646005304214" name="accept">"ఆమోదిస్తున్నాను"</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>కి ప్రస్తుతం అందుబాటులో లేని ఒకటి లేదా అంతకంటే ఎక్కువ Google Play సేవలు అవసరం. దయచేసి సహాయం కోసం డెవలపర్‌ను సంప్రదించండి."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play సేవలను ప్రారంభించు"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"మీరు Google Play సేవలను ప్రారంభిస్తే మినహా <ns1:g id="APP_NAME">%1$s</ns1:g> పని చేయదు."</string>
@@ -31,4 +32,9 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ఫోన్‌లో తెరువు"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"సైన్ ఇన్ చేయి"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Googleతో సైన్ ఇన్ చేయి"</string>
+    <string msgid="6585634416571795096" name="create_calendar_message">"క్యాలెండర్ ఈవెంట్‌ను సృష్టించడానికి ప్రకటనను అనుమతించాలా?"</string>
+    <string msgid="5763102366548941325" name="create_calendar_title">"క్యాలెండర్ ఈవెంట్‌ను సృష్టించండి"</string>
+    <string msgid="6520798050439307862" name="decline">"తిరస్కరిస్తున్నాను"</string>
+    <string msgid="9018493135943017231" name="store_picture_message">"చిత్ర గ్యాలరీలో చిత్రాన్ని నిల్వ చేయడానికి ప్రకటనను అనుమతించాలా?"</string>
+    <string msgid="3745622764880844111" name="store_picture_title">"చిత్రాన్ని సేవ్ చేయండి"</string>
 </resources>

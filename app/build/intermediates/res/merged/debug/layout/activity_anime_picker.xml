@@ -13,7 +13,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Return to Chat List"
+        android:text="  Return to Chat List  "
         android:onClick="onButtonClickedReturnToChat"
         android:id="@+id/buttonReturn1"
         android:layout_alignParentTop="true"
@@ -28,9 +28,9 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Filter Search"
         android:id="@+id/textView"
+        android:layout_marginTop="15dp"
         android:layout_below="@+id/buttonReturn1"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="30dp" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
@@ -38,11 +38,10 @@
         android:text="New Anime"
         android:onClick="onButtonClickedNewAnime"
         android:id="@+id/buttonNew"
-        android:layout_below="@+id/textView"
+        android:enabled="true"
+        android:layout_below="@+id/textView2"
         android:layout_toLeftOf="@+id/textView"
-        android:layout_toStartOf="@+id/textView"
-        android:layout_marginTop="35dp"
-        android:enabled="true" />
+        android:layout_toStartOf="@+id/textView" />
 
     <Button
         android:layout_width="wrap_content"
@@ -61,8 +60,9 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="Choose a category:"
         android:id="@+id/textView2"
-        android:layout_above="@+id/buttonTop"
-        android:layout_centerHorizontal="true" />
+        android:layout_below="@+id/textView"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_alignStart="@+id/textView3" />
 
     <TextView
         android:layout_width="wrap_content"
