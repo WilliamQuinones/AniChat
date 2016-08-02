@@ -7,8 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="dan.anichat.MainActivity"
-    android:background="@drawable/homebackground">
+    tools:context="dan.anichat.MainActivity">
 
     <Button
         android:layout_width="wrap_content"
@@ -28,10 +27,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ListItemThatWouldTakeYouToChatWindow"
+        android:onClick="onButtonClickedChat"
         android:id="@+id/buttonToChatWindow"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         android:background="#ff0000"
         android:enabled="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOG OUT"
+        android:onClick="onButtonClickedLogOut"
+        android:id="@+id/buttonlogout"
+        android:layout_above="@+id/buttonStartChat"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="114dp" />
 </RelativeLayout>

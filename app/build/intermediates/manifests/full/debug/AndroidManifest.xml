@@ -26,18 +26,20 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="dan.anichat.LogIn" >
+        <activity android:name="dan.anichat.LogIn" />
+        <activity android:name="dan.anichat.MainActivity" />
+        <activity android:name="dan.anichat.AnimePicker" />
+        <activity android:name="dan.anichat.NewAnimeList" />
+        <activity android:name="dan.anichat.TopAnimeList" />
+        <activity android:name="dan.anichat.ChatWindow" />
+        <activity android:name="dan.anichat.LoadingActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="dan.anichat.MainActivity" />
-        <activity android:name="dan.anichat.AnimePicker" />
-        <activity android:name="dan.anichat.NewAnimeList" />
-        <activity android:name="dan.anichat.TopAnimeList" />
-        <activity android:name="dan.anichat.ChatWindow" />
+        <activity android:name="dan.anichat.Register" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

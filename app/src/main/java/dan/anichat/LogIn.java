@@ -25,7 +25,7 @@ public class LogIn extends AppCompatActivity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
 
-    private static final String TAG = "EmailPassword";
+    private static final String TAG = "LogIn";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,21 +38,37 @@ public class LogIn extends AppCompatActivity {
         mAuth = FirebaseAuth.getInstance();
 
         mAuthListener = new FirebaseAuth.AuthStateListener() {
+
             @Override
             public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
                 FirebaseUser user = firebaseAuth.getCurrentUser();
                 if (user != null) {
                     // User is signed in
                     Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
+
+
                 } else {
                     // User is signed out
                     Log.d(TAG, "onAuthStateChanged:signed_out");
                 }
+
                 // ...
             }
         };
 
 
+
+    }
+
+    private void handleFirebaseAuthResult(AuthResult authResult) {
+        if (authResult != null) {
+            // Welcome the user
+            FirebaseUser user = authResult.getUser();
+            Toast.makeText(this, "Welcome " + user.getEmail(), Toast.LENGTH_SHORT).show();
+
+            // Go back to the main activity
+            startActivity(new Intent(this, MainActivity.class));
+        }
     }
 
     @Override
@@ -76,34 +92,39 @@ public class LogIn extends AppCompatActivity {
             return;
         }
 
-       // showProgressDialog();
+       //showProgressDialog();
 
         // [START sign_in_with_email]
         mAuth.signInWithEmailAndPassword(email, password)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         Log.d(TAG, "signInWithEmail:onComplete:" + task.isSuccessful());
+
+
 
                         // If sign in fails, display a message to the user. If sign in succeeds
                         // the auth state listener will be notified and logic to handle the
                         // signed in user can be handled in the listener.
                         if (!task.isSuccessful()) {
                             Log.w(TAG, "signInWithEmail:failed", task.getException());
-                            Toast.makeText(LogIn.this, "auth failed",
+                            Toast.makeText(LogIn.this, "Sign in failed - Check E-mail or password",
                                     Toast.LENGTH_SHORT).show();
-                        }
-
-                        // [START_EXCLUDE]
-                        if (!task.isSuccessful()) {
-                            //mStatusTextView.setText(R.string.auth_failed);
+                        }else {
+                            startActivity(new Intent(LogIn.this, MainActivity.class));
+                            finish();
                         }
                         // hideProgressDialog();
                         // [END_EXCLUDE]
                     }
                 });
+
         // [END sign_in_with_email]
     }
+
+
+
 
 
     private boolean validateForm() {
@@ -129,14 +150,13 @@ public class LogIn extends AppCompatActivity {
     }
 
 
-
+    public void onButtonClickedRegisterPage(View v){
+        Intent intent = new Intent(this, Register.class);
+        startActivity(intent);
+    }
 
     public void onButtonClickedLogIn(View view) {
-
         signIn(userField.getText().toString(), passwordField.getText().toString());
-        /*Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);*/
-
     }
 
 }
