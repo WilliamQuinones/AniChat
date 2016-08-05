@@ -1,3 +1,243 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_acd98f11aeb1849834b598925496b36c6f4d69b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_3b80c010b801749fd73afd93f8aafa8c979eddb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_5d395e8a632a57e850e095a76986ae5394550852\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_819af882ba1aa478383e9f0400025f9db0708d5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_e089793b715a53295206508cc3e0b3034d15c45a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_8fde08030c27275ede08a0721bb63c912988ab07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_2796eb945db154d7da6f8d8bb6dda9cd8316b2a8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_8fa79dba52fd94e5c7bd2d887e15e2f9e1063442\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_4e5c2f223e9bb933c3c2de134f14dfe8996d5560\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="df0ab75af9b06e53ed6a73e7f5fab4b87de8cf67">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7d6f4b1189d046fb71e6282a51bf6f0fb1fb67e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_49c2a77e1f52c27fc03801b87ae4acf320b62a5a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_3f19edf74d02ed1e16fcf622f7a8449dab5b4a97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e3f96e5c3642e3b7ff40aae688eb832b503bd443">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c7bad8c2af5902133c89aa5cba7c42e0c1951faa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_5ef0a51fa4883564c84f80fb5d81490bb147b3d5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_66afe6de36b40952a99aba13073afab0b0ef7b1a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_5f6403385d73c0990467adefd9f8dc946d4c660c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_0bdbb43c1c03644f0a0ca0dfa969ed5590536f64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_58f46a4d6f293e91d5bdae51c114a79a8896d93c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_d6abf244aa39d03051abea0067229a1d8c1c982b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_3c6deba98c227ecf769c3fe9803e908d3defb561\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_7603b9fff2d513064b3d8617e09b429cbc564ad3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_c2f5f874369b43d2e206ed5087d95615afc24f91\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_7d7d22599178a37413a6b5352756f3417154fe8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_05d4d546891998a9c269e501ae6a9157b331d238\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_76fb0e03057630f9060059e608214430015e5e9f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_0a472f709dcc997cf3fa8c3b38baf3f6488dca3e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_1624e5dd455a44a4a70d40fa15cca119b69f12f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_0c51e6b943fb5dc0887be9847dc97dbb485c01c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_72550277ff532b6aa50dcac6da40d39ccf255a68\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_04f4b04809bf81ee56ba7a38467f3d91c7c3c3b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e47a260a2d2b6724ecb6aad66fc4333c09bda223\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_92434bf7312f3e518d1a0916a677d443a30012d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_269202918bb6d45a5be88a59b510797d097dcc46\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="C:\Users\Dan\AndroidStudioProjects\AniChat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.0_77b3810cdc27d427fa9f1a10fef78a3a06446396\classes.dex" />
+    </item>
+
+</items>

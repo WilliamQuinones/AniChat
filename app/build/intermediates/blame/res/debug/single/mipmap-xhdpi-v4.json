@@ -1,6 +1,58 @@
 [
     {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\hxh.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\hxh.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\mobpsycho.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\mobpsycho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\gintamamovie.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\gintamamovie.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\berserk.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\berserk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\fmabrotherhood.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\fmabrotherhood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\orange.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\orange.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ginga.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\ginga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\steinsgate.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\steinsgate.jpg"
+    },
+    {
         "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\shokugeki.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\shokugeki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\gintama.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\gintama.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\relife.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\relife.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\days.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\days.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\clannad.jpg",
+        "source": "C:\\Users\\Dan\\AndroidStudioProjects\\AniChat\\app\\src\\main\\res\\mipmap-xhdpi\\clannad.jpg"
     }
 ]

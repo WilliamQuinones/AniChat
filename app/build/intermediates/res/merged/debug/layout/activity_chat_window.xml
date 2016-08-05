@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    tools:context="dan.anichat.ChatWindow">
+    tools:context="dan.anichat.ChatWindow"
+    android:background="@mipmap/homebackground">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/messageRecyclerView"

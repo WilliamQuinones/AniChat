@@ -7,6 +7,29 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="dan.anichat.TopAnimeList">
+    tools:context="dan.anichat.TopAnimeList"
+    android:background="@mipmap/searchbackground">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Return  "
+        android:onClick="onButtonClickedReturnToPickerFromTop"
+        android:id="@+id/buttonReturn3"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#328656"
+        android:enabled="true" />
+
+    <ListView
+        android:id="@+id/listViewTopAnime"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:dividerHeight="0.1dp"
+        android:divider="#0000CC"
+        android:layout_below="@id/buttonReturn3"
+        >
+    </ListView>
 
 </RelativeLayout>
